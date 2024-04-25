@@ -28,7 +28,3 @@ The script requires the following Python libraries:
 ## Note
 
 The script assumes that every 4 spaces or dashes in the tree file denote a new level in the directory structure. If your tree file uses a different number of spaces or dashes, you will need to adjust the script accordingly.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
